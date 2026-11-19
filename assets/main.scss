@@ -1,0 +1,23 @@
+---
+---
+@import 'modern-resume-theme';
+
+:root { --accent: #155e75; }
+body { color: #253347; background: #fbfcfe; }
+h1, h2, h3, h4 { color: #12354b; }
+.header-container { border-top: 6px solid var(--accent); padding-top: 38px; }
+.header-container h1 { letter-spacing: -1px; }
+.header-container h2 { color: var(--accent); }
+a { color: #126b86; }
+a:hover { color: #0b4257; }
+.container h3 { border-color: #b9d5de; }
+.list-container .row { padding-top: 22px; padding-bottom: 22px; }
+.list-container .row:not(:last-child) { border-bottom: 1px solid #e4ebf0; }
+img[src*="shields.io"] { display: inline-block; margin: 4px 5px 4px 0; max-height: 24px; width: auto; }
+.quote { color: #526778; }
+@media (max-width: 767px) {
+  .header-container { padding-top: 26px; }
+  .header-container h1 { font-size: 32px; overflow-wrap: anywhere; }
+  .header-container h2 { font-size: 22px; }
+  .list-container .row { padding-top: 16px; padding-bottom: 16px; }
+}
