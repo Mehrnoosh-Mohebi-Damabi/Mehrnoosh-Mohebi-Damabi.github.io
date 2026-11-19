@@ -1,0 +1,151 @@
+version: 2
+name: Mehrnoosh Mohebi Damabi
+title: Data Science & AI | Python & SQL
+darkmode: never
+github_username: Mehrnoosh-Mohebi-Damabi
+linkedin_username: mehrnoosh-mohebi
+about_title: About Me
+about_content: |
+  I have a master's degree in Computer Software Engineering and over 14 years of experience in IT infrastructure, information security and digital product development. I am now building a hands-on technical career in **Data Science & AI** through my Weiterbildung at **WBS CODING SCHOOL**.
+
+  I work with **Python, SQL, BigQuery, Tableau and Looker Studio**, turning raw data into clear analyses and useful applications. I particularly enjoy understanding how tables relate, identifying data-quality issues and translating findings into practical solutions. My next learning focus is **AI-assisted information extraction from documents and LLM applications**.
+
+  Based in **Düsseldorf, Germany**. Available for a compulsory internship **31 May – 23 July 2027**, with the option of a subsequent voluntary internship.
+content:
+  - title: Technical Skills
+    layout: text
+    content: |
+      **Programming & Data:** Python (PCEP certified), SQL, pandas, NumPy, BigQuery
+
+      **Visualisation & Applications:** Tableau, Looker Studio, Streamlit, MySQL, SQLAlchemy
+
+      **Methods:** Data cleaning, exploratory analysis, statistical testing, A/B testing, dashboard development
+
+      **Professional foundation:** IT infrastructure, information security, risk assessment, requirements analysis and cross-functional collaboration
+  - title: Selected Learning Projects
+    layout: list
+    content:
+      - layout: left
+        title: Liane's Library
+        link: https://github.com/Mehrnoosh-Mohebi-Damabi/Lian-s-Library
+        link_text: View on GitHub
+        quote: >
+          A personal library application built with Python and Streamlit.
+        description: |
+          Co-developed book search, borrowing and returns features, with a MySQL database and SQLAlchemy for catalogue and loan-history management.
+
+          ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+      - layout: left
+        title: ENIAC Discount Strategy
+        link: https://github.com/Mehrnoosh-Mohebi-Damabi/ENIAC-Discount-Strategy-Analysis
+        link_text: View on GitHub
+        quote: >
+          Data preparation and analysis to inform discount decisions.
+        description: |
+          Investigated relationships across four CSV sources, identified data-quality and pricing issues, and prepared cleaned datasets and evidence-based recommendations as part of a training project.
+
+          ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+      - layout: left
+        title: ENIAC A/B Testing
+        link: https://github.com/Mehrnoosh-Mohebi-Damabi/Eniac-Button-A-B-Test
+        link_text: View on GitHub
+        quote: >
+          Statistical evaluation of four homepage call-to-action designs.
+        description: |
+          Independently explored table relationships, defined metrics and selected statistical methods. Documented uncertainty and the additional evidence needed when the results did not support a definitive winner.
+
+          ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-E67E22?style=flat-square) ![AB Testing](https://img.shields.io/badge/A%2FB_Testing-7C3AED?style=flat-square)
+      - layout: left
+        title: GoExplore Sabah
+        link: https://github.com/Mehrnoosh-Mohebi-Damabi/GoExplore-Sabah
+        link_text: View on GitHub
+        quote: >
+          Sales performance analysis and an interactive business dashboard.
+        description: |
+          Defined KPIs, investigated data quality and built a dashboard with SQL, BigQuery and Looker Studio. Compared the first seven months across four years to account for the incomplete final year and support meaningful growth comparisons.
+
+          ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-673AB7?style=flat-square&logo=looker&logoColor=white)
+      - layout: left
+        title: ENIAC Brazil Market Entry
+        link: https://github.com/Mehrnoosh-Mohebi-Damabi/Eniac-Brazil-Market-Entry-Analysis
+        link_text: View on GitHub
+        quote: >
+          Evaluating a potential marketplace and logistics partner.
+        description: |
+          Analysed 25 months of marketplace data using SQL and Tableau to assess delivery performance and market potential, communicating findings through visualisations and business recommendations.
+
+          ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-1F77B4?style=flat-square)
+  - title: Professional Experience
+    layout: list
+    content:
+      - layout: right
+        title: 40cplus
+        sub_title: Product Manager · Freelance
+        caption: September 2025 – July 2026
+        description: |
+          Defined roadmaps, technical requirements and development priorities. Connected user research with implementation and aligned product, engineering and marketing objectives.
+      - layout: right
+        title: KONZENS
+        sub_title: Administrative Assistant · Part-time
+        caption: June 2024 – June 2025
+        description: |
+          Supported documentation and scheduling in a German workplace in Düsseldorf.
+      - layout: right
+        title: Simurghnameh
+        sub_title: Product & Project Manager
+        caption: February 2022 – June 2025
+        description: |
+          Helped take a web platform from concept to launch. Synthesised findings from approximately 20 user interviews with an assistant and translated them into development tasks. Monitored usage as the platform grew from zero to approximately 50 unique daily visitors over a year.
+      - layout: right
+        title: Saman Electronic Payment
+        sub_title: Product & Project Manager / Agile Coach
+        caption: June 2021 – May 2022
+        description: |
+          Supported agile delivery, cross-functional coordination and Jira reporting in a banking technology environment.
+      - layout: right
+        title: PooyeGaam Co.
+        sub_title: Senior IT Project Manager
+        caption: December 2010 – April 2021
+        description: |
+          Delivered network, server and data-centre infrastructure projects, contributing technical troubleshooting, migration plans, rollback procedures and testing. Worked on information-security and risk-management processes across people, processes and technology. Helped reduce a continuity test from 10 to 7 minutes through corrective actions.
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: WBS CODING SCHOOL
+        sub_title: Data Science & AI
+        caption: 20 July 2026 – 23 July 2027 (expected)
+        description: |
+          Practical training in Python, SQL, data preparation, statistical analysis and visualisation, with an ongoing focus on Data Science & AI.
+      - layout: left
+        title: Islamic Azad University
+        sub_title: M.Sc. Computer Software Engineering
+        caption: October 2012 – December 2015
+        description: |
+          Research on a policy- and learning-based autonomic architecture for mobile ad-hoc networks, evaluated through routing simulation.
+      - layout: left
+        title: Bachelor's Degree
+        sub_title: Computer Software Engineering
+        caption: September 2005 – September 2009
+        description: |
+          Foundation in programming and software engineering. Contributed to a team search-engine project using C# and PostgreSQL.
+  - title: Certificates
+    layout: text
+    content: |
+      - [PCEP – Certified Entry-Level Python Programmer](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/certificate_on64.jJfN.M25V.pdf) · Python Institute
+      - [Practical A/B Testing](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/CertificateOfCompletion_Practical%20AB%20Testing.pdf) · LinkedIn Learning
+      - [Statistics Foundations 1: The Basics](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%201%20The%20Basics%20.pdf)
+      - [Statistics Foundations 2: Probability](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%202%20Probability.pdf)
+      - [Statistics Foundations 4: Advanced Topics](https://github.com/Mehrnoosh-Mohebi-Damabi/My-Certificates/blob/main/CertificateOfCompletion_Statistics%20Foundations%204%20Advanced%20Topics.pdf)
+  - title: Languages
+    layout: text
+    content: |
+      **German:** B2 certified, currently attending a C1 course · **English:** B2 · **Persian:** Native
+footer_show_references: false
+remote_theme: sproogen/modern-resume-theme
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+sass:
+  sass_dir: _sass
+  style: compressed
